@@ -1,4 +1,5 @@
-Jonas Reyes es Venezolano
-es amante de la programacion web
-
-tiene 39 años de edad
+Nombres: Jonás Antonio
+Apellidos: Reyes Casanova
+Edad: 40
+Email: jonasreyes@yandex.com
+Bio: Programador WEB especializado en PHP y Python.
