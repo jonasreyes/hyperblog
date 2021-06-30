@@ -1,7 +1,12 @@
 
 body
 {
-    background-color: pink;
+    background-color: lightgray;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    color:deeppink;
 }
