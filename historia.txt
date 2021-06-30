@@ -14,3 +14,10 @@ ZP: 2020
 Historia:
 Esta es la historia real de la vida
 y maestría
+
+---
+Educación:
+Técnico Superior Universitario en Informática - Universidad Bolivariana de Venezuela
+Bachiller en Ciencias - Centro de Educación para Adultos Centro Doscente
+
+
