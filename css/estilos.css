@@ -20,6 +20,14 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    color:hotpink;
+    font-size: 40px;
+}
+
+p.pmaster
+{
+    background-color: grey;
+    color: orange; 
+    padding: 4px;
 }
 
